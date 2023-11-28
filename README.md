@@ -1,2 +1,2 @@
-# perm-tasyon-kombinasyon-hesaplay-c-
+# permutasyon-kombinasyon-hesaplayici
 Permütasyon ve kombinasyon hesaplama
